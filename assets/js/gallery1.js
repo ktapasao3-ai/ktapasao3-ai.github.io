@@ -67,9 +67,7 @@ const albums = {
             { src: 'assets/videos/project-video2.mp4', 
             caption: 'Individual Activity',
             poster:'assets/images/gallery/videos/video-thumb2.jpg' },
-            { src: 'assets/videos/project-video3.mp4', 
-            caption: 'Group Video Presentation',
-            poster:'assets/images/gallery/videos/video-thumb3.jpg' },
+            
             { src: 'assets/videos/project-video4.mp4', 
             caption: 'Mini Vlog',
             poster:'assets/images/gallery/videos/video-thumb4.jpg' },
