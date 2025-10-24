@@ -413,10 +413,10 @@ a {
    ========================================== */
 .gallery-section {
     background: white;
-    padding-top: 120px;
+    padding-top: 150px;
     padding-bottom: 100px;
     min-height: 100vh;
-    margin-top: 90px;
+    
 }
 
 .gallery-filter {
